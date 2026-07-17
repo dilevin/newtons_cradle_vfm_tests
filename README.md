@@ -1,7 +1,7 @@
 # newtons_cradle_vfm_tests
 A bunch of generative videos of Newton's Cradle
 
-The videos are stored using [GIT LFS](https://git-lfs.com). Please make sure this is installed before cloning the repo.
+The videos are stored using [GIT LFS](https://git-lfs.com). Please make sure this is installed before cloning the repo. On most platforms you can view the videos without cloning the repo by clicking on the files in Github and then clicking **view raw**.
 
 I used this prompt to generate all examples in a brand new conversation with google gemini
 
