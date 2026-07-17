@@ -3,8 +3,6 @@ A bunch of generative videos of Newton's Cradle
 
 The videos are stored using [GIT LFS](https://git-lfs.com). Please make sure this is installed before cloning the repo. On most platforms you can view the videos without cloning the repo by clicking on the files in Github and then clicking **view raw**.
 
-I used this prompt to generate all examples in a brand new conversation with google gemini
-
 ## Latest Video (July 9th 2026)
 
 
@@ -17,6 +15,8 @@ Its very common for people in the simulation subfield of graphics to show failur
 
 ## What is the cadence for making videos ?
 No fixed cadence, mainly whenever I need to give a talk, write a grant or have gotten in an argument with someone about the utility of VFMs as physics simulators I make a new video to check myself.
+
+I used this prompt to generate all examples in a brand new conversation with google gemini: 
 
 ## Prompt
 Generate a 10-second photorealistic video of a physically realistic scene involving a Newton’s Cradle on a sleek wooden desk in a well-lit office environment. The scene should depict one of the end spheres being pulled back and released, striking the others and initiating a transfer of momentum that causes the opposite end sphere to swing outward. This cycle should repeat several times, gradually losing amplitude due to air resistance and internal damping.
