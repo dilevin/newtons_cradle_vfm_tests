@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/a140dd5b-a900-4c95-9b38-a0987acf9742
 Its very common for people in the simulation subfield of graphics to show failure cases of video foundation models (VFMs) in talks, papers and presentations. While useful, these demonstrations are invariably (and correctly) countered with the suggestions that ML models are undergoing "exponential" progress in terms of results quality. This simple test allows my to check that claim over a long-ish timeframe. A Newton's Cradle is a nice example because (1) they are deceptively simple (2) most people have seen one so you have good instincts about how it should look (3) the conserved physical quantities are well known and failry easy to evaluate. 
 
 ## What is the cadence for making videos ?
-No fixed cadence, mainly whenever I need to give a talk, write a grant or get in an argument with somone about the utility of VFMs as physics simulators I make a new video to check myself.
+No fixed cadence, mainly whenever I need to give a talk, write a grant or have gotten in an argument with someone about the utility of VFMs as physics simulators I make a new video to check myself.
 
 ## Prompt
 Generate a 10-second photorealistic video of a physically realistic scene involving a Newton’s Cradle on a sleek wooden desk in a well-lit office environment. The scene should depict one of the end spheres being pulled back and released, striking the others and initiating a transfer of momentum that causes the opposite end sphere to swing outward. This cycle should repeat several times, gradually losing amplitude due to air resistance and internal damping.
