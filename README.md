@@ -5,6 +5,9 @@ The videos are stored using [GIT LFS](https://git-lfs.com). Please make sure thi
 
 I used this prompt to generate all examples in a brand new conversation with google gemini
 
+## Latest Video (July 9th 2026)
+<video src="https://github.com/dilevin/newtons_cradle_vfm_tests/blob/main/veo/cradle_july_9_2026.mp4" width="100%" autoplay loop muted></video>
+
 ## Why are you doing this ?
 Its very common for people in the simulation subfield of graphics to show failure cases of video foundation models (VFMs) in talks, papers and presentations. While useful, these demonstrations are invariably (and correctly) countered with the suggestions that ML models are undergoing "exponential" progress in terms of results quality. These simple test allows my to test that claim over a long-ish timeframe. A Newton's Cradle is a nice example because (1) they are deceptively simple (2) most people have seen one so you have good instincts about how it should look (3) the conserved physical quantities are well known and failry easy to evaluate. 
 
