@@ -3,7 +3,7 @@ A bunch of generative videos of Newton's Cradle
 
 The videos are stored using [GIT LFS](https://git-lfs.com). Please make sure this is installed before cloning the repo. On most platforms you can view the videos without cloning the repo by clicking on the files in Github and then clicking **view raw**.
 
-## Latest Video (July 9th 2026)
+## Latest Video (October 19th 2026)
 
 
 https://github.com/user-attachments/assets/a140dd5b-a900-4c95-9b38-a0987acf9742
