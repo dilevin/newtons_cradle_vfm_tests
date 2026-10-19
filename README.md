@@ -6,7 +6,10 @@ The videos are stored using [GIT LFS](https://git-lfs.com). Please make sure thi
 ## Latest Video (October 19th 2026)
 
 
-https://github.com/user-attachments/assets/a140dd5b-a900-4c95-9b38-a0987acf9742
+
+https://github.com/user-attachments/assets/7f675e91-ae68-4a21-b07b-73a76430b117
+
+
 
 
 
